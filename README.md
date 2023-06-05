@@ -1,7 +1,4 @@
-### Hola! Soy Micaela Bazán 👋🏽
-
-
- Skills 
+### Hola!
 <!--
 **MicaBazan/MicaBazan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
