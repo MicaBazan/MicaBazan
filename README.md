@@ -1,4 +1,4 @@
-# 💫 Hola! Soy Micaela
+# 👋 Hola! Soy Micaela
 
 
 ## 🌐 Socials:
